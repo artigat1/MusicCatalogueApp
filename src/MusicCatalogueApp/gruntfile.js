@@ -7,7 +7,7 @@
     grunt.initConfig({
         uglify: {
             my_target: {
-                files: { 'wwwroot/js/movieApp/app.js': ['Scripts/MovieApp/app.js', 'Scripts/MovieApp/**/*.js'] }
+                files: { 'wwwroot/js/musicCatalogueApp/app.js': ['Scripts/MusicCatalogueApp/app.js', 'Scripts/MusicCatalogueApp/**/*.js'] }
             }
         },
 
